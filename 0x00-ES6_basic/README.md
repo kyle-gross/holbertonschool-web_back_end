@@ -1,4 +1,4 @@
-# [0x00-ES6_basic]( "0x00-ES6_basic")
+# 0x00-ES6_basic
 
 ![](../readme_assets/is_this_this.png)
 

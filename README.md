@@ -1,6 +1,6 @@
 # Back-End Web Development
 
-## [0x00-ES6_basic]( "0x00-ES6_basic")
+## [0x00-ES6_basic](https://github.com/kyle-gross/holbertonschool-web_back_end/tree/main/0x00-ES6_basic "0x00-ES6_basic")
 
 ![](./readme_assets/is_this_this.png)
 
