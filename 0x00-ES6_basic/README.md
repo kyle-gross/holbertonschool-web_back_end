@@ -32,3 +32,30 @@ A list of all of the changes from the ES6 update can be found [here](https://www
 * [Default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters "Default parameters")
 * [Rest parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters "Rest parameter")
 * [Javascript ES6 — Iterables and Iterators](https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4 "Javascript ES6 — Iterables and Iterators")
+
+---
+
+## Setup
+
+### Install NodeJS 12.11.x
+(In your home directory)
+
+```
+curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
+sudo bash nodesource_setup.sh
+sudo apt install nodejs -y
+```
+
+```
+$ nodejs -v
+v12.11.1
+$ npm -v
+6.11.3
+```
+
+### Install Jest, Babel, and ESLint
+(In your project directory)
+
+* Install Jest using: npm install --save-dev jest
+* Install Babel using: npm install --save-dev babel-jest @babel/core @babel/preset-env
+* Install ESLint using: npm install --save-dev eslint
